@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Audio Core",
+  "description": "A professional-grade offline music player with canvas visualizers, dynamic color theme extraction, glassmorphism design, and advanced AudioContext effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
